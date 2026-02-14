@@ -59,31 +59,6 @@ ISAI is a modern music streaming web application that allows users to:
 
   Persistent state using Redux
 
-- Frontend Features
-
-  Fully Responsive UI
-
-  Tailwind CSS styling
-
-  Reusable Components
-
-  Modular folder structure
-
-  Clean UI layout with Sidebar & MainArea
-
--  Backend Features
-
-  RESTful API architecture
-
-  MVC pattern structure
-
-  MongoDB database integration
-
-  Mongoose data models
-
-  Middleware for authentication
-
-
 ## Technologies Used
 
 - Frontend
@@ -114,13 +89,13 @@ ISAI is a modern music streaming web application that allows users to:
 
   Nodemailer
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/ed05f1f6-2177-4175-8ebf-0980206fa95f" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/ed05f1f6-2177-4175-8ebf-0980206fa95f" />
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/70f1ebe0-7e1e-4526-b6ce-91cf76f0062f" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/70f1ebe0-7e1e-4526-b6ce-91cf76f0062f" />
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/2eaf349f-6728-432a-82e8-0e13e4da7ee1" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/2eaf349f-6728-432a-82e8-0e13e4da7ee1" />
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/26ce3a72-90d8-4155-8424-8cf85fbebb3f" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/26ce3a72-90d8-4155-8424-8cf85fbebb3f" />
 
  
  
