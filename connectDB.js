@@ -1,0 +1,12 @@
+import mangoose from 'mongoose';
+import dotenv from 'dotenv';
+dotenv.config({ path: "../.env" });
+const connectDB= async()=>{
+    try{
+        const connection= await mangoose.connect(process.env.MONGODB_URI);
+        console.log(`MongoDB connected successfully`);
+    }catch (error){
+        console.error(`MONGODB connection error:  `,error.message);
+    }
+};
+export default connectDB;
